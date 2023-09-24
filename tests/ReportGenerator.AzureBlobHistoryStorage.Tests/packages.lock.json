@@ -165,8 +165,8 @@
       },
       "Microsoft.Extensions.Configuration.Binder": {
         "type": "Transitive",
-        "resolved": "7.0.4",
-        "contentHash": "8+XPvJnHZsYgHOQlcMuQe7QNF5KdVKHH1F/wW3nd8/u81Gk/XFAYMDP0Lpz18h7/AM95M662vvqMorcYxCBB4w==",
+        "resolved": "7.0.2",
+        "contentHash": "RaI9E02hDI6lE6bkWqnGnc264sht+NF2D3Q2NR5AhVY8woezegeqrDaoQIVwTSuUkGrSafyJe6D4UBRpQhjhUg==",
         "dependencies": {
           "Microsoft.Extensions.Configuration.Abstractions": "7.0.0"
         }
@@ -283,13 +283,13 @@
       },
       "ReportGenerator.Core": {
         "type": "Transitive",
-        "resolved": "5.1.25",
-        "contentHash": "+hY78+R1o4jS29wjlg96xXsvH2qMpfEiIBgkGId5dqAxfBiZSfguCu1+MIAzbVDzbJq6KLB95HqBETdteorGRg==",
+        "resolved": "5.1.17",
+        "contentHash": "bJdsGf/Pcmef6YcsDwFr4/FVBqK7Y/AEhydzhjkMiyWo/5hg+nlEJ+/VfBQ0UhS/beAEk1m2qkBgMQrvfYOj0g==",
         "dependencies": {
           "DotNetConfig": "1.0.6",
           "McMaster.NETCore.Plugins": "1.4.0",
           "Microsoft.Extensions.Configuration": "7.0.0",
-          "Microsoft.Extensions.Configuration.Binder": "7.0.4",
+          "Microsoft.Extensions.Configuration.Binder": "7.0.2",
           "Microsoft.Extensions.Configuration.CommandLine": "7.0.0",
           "Microsoft.Extensions.Configuration.Json": "7.0.0",
           "SixLabors.ImageSharp.Drawing": "1.0.0-beta15"
@@ -413,7 +413,7 @@
         "dependencies": {
           "Azure.Storage.Blobs": "[12.18.0, )",
           "CliWrap": "[3.6.4, )",
-          "ReportGenerator.Core": "[5.1.25, )"
+          "ReportGenerator.Core": "[5.1.17, )"
         }
       }
     },
@@ -581,8 +581,8 @@
       },
       "Microsoft.Extensions.Configuration.Binder": {
         "type": "Transitive",
-        "resolved": "7.0.4",
-        "contentHash": "8+XPvJnHZsYgHOQlcMuQe7QNF5KdVKHH1F/wW3nd8/u81Gk/XFAYMDP0Lpz18h7/AM95M662vvqMorcYxCBB4w==",
+        "resolved": "7.0.2",
+        "contentHash": "RaI9E02hDI6lE6bkWqnGnc264sht+NF2D3Q2NR5AhVY8woezegeqrDaoQIVwTSuUkGrSafyJe6D4UBRpQhjhUg==",
         "dependencies": {
           "Microsoft.Extensions.Configuration.Abstractions": "7.0.0"
         }
@@ -696,13 +696,13 @@
       },
       "ReportGenerator.Core": {
         "type": "Transitive",
-        "resolved": "5.1.25",
-        "contentHash": "+hY78+R1o4jS29wjlg96xXsvH2qMpfEiIBgkGId5dqAxfBiZSfguCu1+MIAzbVDzbJq6KLB95HqBETdteorGRg==",
+        "resolved": "5.1.17",
+        "contentHash": "bJdsGf/Pcmef6YcsDwFr4/FVBqK7Y/AEhydzhjkMiyWo/5hg+nlEJ+/VfBQ0UhS/beAEk1m2qkBgMQrvfYOj0g==",
         "dependencies": {
           "DotNetConfig": "1.0.6",
           "McMaster.NETCore.Plugins": "1.4.0",
           "Microsoft.Extensions.Configuration": "7.0.0",
-          "Microsoft.Extensions.Configuration.Binder": "7.0.4",
+          "Microsoft.Extensions.Configuration.Binder": "7.0.2",
           "Microsoft.Extensions.Configuration.CommandLine": "7.0.0",
           "Microsoft.Extensions.Configuration.Json": "7.0.0",
           "SixLabors.ImageSharp.Drawing": "1.0.0-beta15"
@@ -822,7 +822,7 @@
         "dependencies": {
           "Azure.Storage.Blobs": "[12.18.0, )",
           "CliWrap": "[3.6.4, )",
-          "ReportGenerator.Core": "[5.1.25, )"
+          "ReportGenerator.Core": "[5.1.17, )"
         }
       }
     }
